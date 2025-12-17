@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR-promenad</string>
+    <string name="app_description">Откройте для себя достопримечательности Москвы с помощью технологий дополненной реальности и компьютерного зрения</string>
+    <string name="app_logo">Логотип приложения</string>
+    <string name="start_camera">Начать сканирование</string>
+    <string name="camera_permission_required">Необходимо разрешение на использование камеры</string>
+    <string name="location_permission_required">Необходимо разрешение на определение местоположения</string>
+</resources>
